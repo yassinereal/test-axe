@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+bin/
+obj/
+
+# Logs & temp
+*.log
+*.tmp
+
+# IDE
+.vs/
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
