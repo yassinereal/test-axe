@@ -2,7 +2,7 @@
   "projet": "test-axe",
   "description": "Repo de pratique Git + manipulation JSON",
   "produits": [
-    { "id": 1, "nom": "Clavier", "prix": 120, "stock": 15 },
+    { "id": 1, "nom": "Clavier", "prix": 120, "stock": 1500 },
     { "id": 2, "nom": "Souris", "prix": 80, "stock": 30 },
     { "id": 3, "nom": "Ecran", "prix": 950, "stock": 7 },
     { "id": 4, "nom": "Casque", "prix": 200, "stock": 12 }
